@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Florian KAMSU KOM / Data Engineer / Data Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://FloKom.github.io"
+name                     : &name "Florian KAMSU KOM"
+description              : &description "Data Engineer"
+url                      : "https://flokom.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FloKom/FloKom.github.io"
 
