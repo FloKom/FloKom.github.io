@@ -21,7 +21,7 @@ repository               : "FloKom/FloKom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img.png"
+  avatar           : "img.jpg"
   name             : "Florian KAMSU KOM"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
