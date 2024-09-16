@@ -13,5 +13,5 @@ redirect_from:
 
 If the embedded PDF below does not load, you can <u><a href="https://flokom.github.io/files/CV_DATA.pdf">download it here.</a></u>
 <br/>
-
-<embed src="https://flokom.github.io/files/CV_DATA.pdf" type="application/pdf" width="100%" />
+<img src='/images/CV_DATA.jpg'>
+<--embed src="https://flokom.github.io/files/CV_DATA.pdf" type="application/pdf" width="100%" /-->
